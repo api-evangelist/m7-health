@@ -1,0 +1,14 @@
+{
+  "repo": "m7-health",
+  "feeds": [
+    {
+      "source": "https://docs.m7health.com/",
+      "feed_url": "https://docs.m7health.com/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
